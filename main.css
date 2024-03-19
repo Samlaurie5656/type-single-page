@@ -1,16 +1,15 @@
 @font-face {
-    src: url("./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.woff2") format("woff2"),
-         url('./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.woff') format("woff"),
+    src: url("fonts/ScienceGothic[YOPQ\,slnt\,wdth\,wght]\ \(1\).ttf") format("truetype"),
         url('./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.ttf') format('truetype');
 
-    font-family: 'Forma';
+    font-family: 'Science Gothic';
     font-style: normal;
     font-weight: normal;
     }
     
     body{
     background-color: lightsteelblue;
-    font-family: 'Forma';
+    font-family: 'Science Gothic';
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -57,9 +56,9 @@ h3{
 
 @keyframes weightChange {
     0%, 100%{
-        font-variation-settings: "opsz" 16, "wght" 200, "slnt" 0;
+        font-variation-settings: "YOPQ" 122, "slnt" 0, "wdth" 100, "wght" 100;
     }
-    50%{font-variation-settings: "opsz" 16, "wght" 900, "slnt" -13;
+    50%{font-variation-settings: "YOPQ" 122, "slnt" 0, "wdth" 100, "wght" 900;
     }
     
 }
