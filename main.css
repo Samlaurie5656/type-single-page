@@ -43,7 +43,7 @@ grid-area: a;
 }
 /* CSS for the footer */
 footer{
-    background-color: gray;
+      background-color: rgb(0, 179, 255);
 }
 
 /* variable font animation */
