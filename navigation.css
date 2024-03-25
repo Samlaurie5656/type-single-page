@@ -120,6 +120,7 @@
     }
     .logo {
       grid-column: 2 / span 1;
+      color:#ffffff
     }
     nav {
       all: unset;
