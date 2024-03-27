@@ -59,7 +59,7 @@ h3{
         text-align: center;
         position: relative; 
         top: 100px;
-        right: 5%;
+        right:1%;
     font-weight:20; 
     text-align: center;
     font-size: 5em;
@@ -106,9 +106,9 @@ h4{
     font-size: 40px;
     font-family: 'Science gothic';
     position: relative; 
-    text-align: right;
-    top: -1600px;
-    left: 175%;
+    text-align: left;
+    top: -1550px;
+    left: 162%;
     color: rgb(0, 0, 0);
 }
 h5{
@@ -116,10 +116,10 @@ h5{
         padding-top: 0px;
         font-weight: 10;
         font-size: 15px;
-        text-align: right;
+        text-align: left;
         position: relative; 
-        top: -1630px;
-        left: 175%;
+        top: -1585px;
+        left: 162%;
         color: #000000;
 }
 h6{
@@ -129,8 +129,8 @@ h6{
         font-size: 15px;
         text-align: center;
         position: relative; 
-        top: -725px;
-        right: -8%;
+        top: -1000px;
+        right: -12%;
     font-size: 30px;
     animation: weightChange 7s infinite;
     color: #000000;
