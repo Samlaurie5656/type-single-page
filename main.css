@@ -8,8 +8,9 @@
     }
     body{
     background-color: rgb(255, 255, 255);
-    background-image: url(Background\ for\ website2.png);
+    background-image: url(Background\ for\ website1.png);
     font-family: 'Science Gothic';
+    background-position: center;
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -63,7 +64,7 @@ h3{
     text-align: center;
     font-size: 5em;
     animation: weightChange 7s infinite;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 @keyframes weightChange {
@@ -108,7 +109,7 @@ h4{
     text-align: right;
     top: -1600px;
     left: 175%;
-    color: aqua;
+    color: rgb(0, 0, 0);
 }
 h5{
         margin-top: 0px;
@@ -119,7 +120,7 @@ h5{
         position: relative; 
         top: -1630px;
         left: 175%;
-        color: #ffffff;
+        color: #000000;
 }
 h6{
     margin-top: 0px;
@@ -132,7 +133,7 @@ h6{
         right: -8%;
     font-size: 30px;
     animation: weightChange 7s infinite;
-    color: #ffffff;
+    color: #000000;
 }
 {
     margin-top: 0px;
