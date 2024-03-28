@@ -47,7 +47,7 @@ grid-area: a;
 }
 /* CSS for the footer */
 footer{
-    background-color: rgb(2, 179, 255);
+    background-color: rgb(255, 238, 0);
 }
 h2{
     color: rgb(0, 0, 0);
@@ -79,8 +79,8 @@ h3{
     
 }
 #variations{
-    margin-left: -700px;
-    margin-top: -700px;
+    margin-left: -152px;
+    margin-top: -930px;
 }
 .weight{
     color: rgb(0, 0, 0);
@@ -129,7 +129,7 @@ h3{
 h4{
     margin-top: 0px;
     padding-top: 0px;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Science gothic';
     position: relative; 
     text-align: left;
