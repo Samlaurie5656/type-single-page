@@ -10,9 +10,10 @@
     }
     body{
     background-color: rgb(255, 255, 255);
-    background-image: url("background.png");
+    background-image: url("background3.png");
     font-family: 'Science Gothic';
-    background-position: center;
+    background-position: left;
+    background-repeat: no-repeat;
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -61,7 +62,7 @@ h3{
         text-align: center;
         position: relative; 
         top: 100px;
-        right:1%;
+        right:21%;
     font-weight:20; 
     text-align: center;
     font-size: 5em;
@@ -155,7 +156,7 @@ h6{
         text-align: center;
         position: relative; 
         top: -1000px;
-        right: -12%;
+        right: 7%;
     font-size: 30px;
     animation: weightChange 7s infinite;
     color: #000000;
